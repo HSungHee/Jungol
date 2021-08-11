@@ -2,7 +2,7 @@ package jungol;
 
 import java.util.Scanner;
 
-public class Main_백설공주_1810 {
+public class Main_문제은행_1810 {
 	static int n, r;
 	static int[] input;
 	static int[] numbers;
