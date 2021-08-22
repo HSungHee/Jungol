@@ -60,7 +60,7 @@ public class Main_Language_Coder_1719 {
 				System.out.println();
 			}
 			break;
-		default :
+		default :	// 짝수이거나 잘못된 종류의 값이 입력되면 error 메시지 출력
 			System.out.println("INPUT ERROR!");
 		}
 	}
